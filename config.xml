@@ -1,0 +1,13 @@
+<widget id="org.kidedu.test" version="0.0.1">
+        <name>SimpleApp</name>
+        <description>
+            A sample Apache Cordova application.
+        </description>
+        <author email="mail@kidedu.org" href="http://kidedu.org">
+            Kidedu.org
+        </author>
+        <content src="index.htm" />
+        <access origin="*" />
+        <preference name="Fullscreen" value="true" />
+        <preference name="WebViewBounce" value="true" />
+ </widget>
